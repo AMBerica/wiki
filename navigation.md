@@ -3,6 +3,11 @@
 [Home](index.md)
 
 [Government]()
-* [Election Primer](elections.md)
-* # Election Results
-* [December 2017](govt/december2017-elections.md)
+
+  * [Election Primer](elections.md)
+  - - - -
+  * # Election Results
+  * [December 2017](govt/december2017-elections.md)
+
+[Forum](http://www.anothermessageboard.com)
+
