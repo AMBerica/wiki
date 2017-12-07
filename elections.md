@@ -9,8 +9,10 @@ Elections are held every December on the first Tuesday after the first Monday. T
 * 3 months of membership
 * voting from alt-accounts do not count
 
+Presidents can win by a plurality of votes. In the event of a tie, the [AMB Supreme Court](supreme-court.md) will vote among the candidates who received the most amount of votes.
+
 ## President and Vice President
 
 ## Running for Office
 
-## Election Dy
+Users must meet the following requirements to run for President or Vice President
