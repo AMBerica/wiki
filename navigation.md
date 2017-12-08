@@ -2,6 +2,11 @@
 
 [Home](index.md)
 
+[Community]()
+
+  * [Users](users/users.md)
+  * [Rep](rep.md)
+
 [Government]()
 
   * [Supreme Court](govt/supreme-court.md)
