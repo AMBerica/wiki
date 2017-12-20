@@ -14,6 +14,6 @@ The eldest son, Kevin, assumed leadership of the organization and has served in 
 
 ### Operations
 
-The Hoffmang Gang has a presence in several American cities, with important centers in Tucson Arizona, Albany New York, El Paso Texas and Miami Florida. The cartel is involved in smuggling and distribution of Bolivian cocaines, methamphetamine and Bolivian heroin into the United States. It is believed that the group uses lesser known transportation routes through Suriname and Guyana. Illegal drugs are usually brought into the United States through Mexico via routes that are leased from Los Zetas.
+The Hoffmang Gang has a presence in several American cities, with important centers in Tucson Arizona, Albany New York, Bayside New York, El Paso Texas and Miami Florida. The cartel is involved in smuggling and distribution of Bolivian cocaine and, methamphetamine and Colombian heroin into the United States. The group uses lesser known transportation routes through Suriname and Guyana in order to avoid detection and ship to ports in Mexico. Routes leased from Los Zetas in Mexico are used to smuggle product across the border into the United States.
 
 Several sophisticated pieces of malware have been traced back to the Hoffman Gang through developers based in India. In 2016, a keylogger was discovered installed on several NSA servers and investigators concluded that the Hoffman Gang had unlimited access to sensitive information in the NSA for several months. The extent of the information that was compromised is still unknown.
