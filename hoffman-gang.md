@@ -10,7 +10,7 @@ The Hoffman Gang have been called "the US's largest crime syndicate in terms of 
 
 Leadership has been passed down through generations, usually to the first son. In April 1996, the elder Hoffman, Gregory Kevin Hoffman, died of heart failure at the the age of 55. Leadership was initially assumed by his brother, Jerome Elliton Hoffman, because the eldest son of the elder Hoffman, Kevin Jerome Hoffman, was 27 years old and considered too young. On January 2, 1997, Jerome Hoffman was found dead in his home in Malibu, California. Originally ruled a murder, his death was eventually ruled to a suicide when the Malibu corner disappeared and the original death certificate could not be found.
 
-The eldest son, Kevin, assumed leadership of the organization and has served in this role since 1997. Longtime family friend, Jack Schechtman, joined the organization in 2009 and is currently second in command, as the "strong arm" of the cartel.
+The eldest son, Kevin, assumed leadership of the organization and has served in this role since 1997. Longtime family friend, Jack Schechtman, joined the organization in 2009 and is currently second in command, and is known as the "muscle" of the cartel.
 
 ### Operations
 
