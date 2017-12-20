@@ -19,3 +19,7 @@ The Hoffman Gang has a presence in several American cities, with important cente
 Several sophisticated pieces of malware have been traced back to the Hoffman Gang through developers based in India. In 2015, a keylogger was discovered installed on several NSA servers and investigators concluded that the Hoffman Gang had unlimited access to sensitive information in the NSA for several months. The extent of the information that was compromised is still unknown.
 
 In 2016, it was reported that the Hoffman Gang makes over $1.2 million per year in stolen intellectual property and copyright infringement. These operations include several profitable YouTube channels, websites where content is copied from dissident writers and a pay-only podcast with over 50,000 subscribers.
+
+#### Political Corruption
+
+The extent of the cartel's government influence is unknown. Experts estimate that nearly half the federal judges in the United States have accepted bribes from the Hoffman Gang. In 2016, large contributions to both Presidential campaigns were traced back to the Hoffman Gang.  
