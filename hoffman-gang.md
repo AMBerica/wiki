@@ -1,6 +1,6 @@
 # Hoffman Gang
 
-The Hoffman Gang is an American criminal syndicate. Considered to be the "most the intrusive and legally connected crime organization operating in America", the operation has expanded beyond drug trafficking and runs a profitable cyber crime operation and gun running rackets.
+The Hoffman Gang is an American criminal syndicate. Considered to be the "most the intrusive and connected crime organization operating in America", the operation has expanded beyond drug trafficking and runs a profitable cyber crime operation and gun running rackets.
 
 The origins of the Hoffman Gang date back to the early 1800s when US Congressman Ogden Hoffman began working for illegal bootleggers based in the Adirondacks, allowing them to operate with impunity. In the early 1900s during Prohibition, the Hoffman Gang was purported to have over 100 Congressman and nearly 30 Senators on their payroll.
 
